@@ -98,13 +98,21 @@ TEXTS = {
         'Klavye ve fare atamalarını kendiniz değiştirdiniz. Dark Souls III düzeniyle değiştirilsin mi? Kumanda '
         'düğmeleri olduğu gibi kalır.\n\n"Hayır" tuşlarınızı korur ve yalnızca fare kamerasını açar.',
     ),
-    'zh': (
+    'zh-CN': (
         '操作方式',
         '手柄',
         '键盘和鼠标：开启鼠标控制镜头并使用 Dark Souls III 布局（如果你自己改过按键，会先询问）。手柄：关闭'
         '鼠标控制镜头，游戏不再占用鼠标指针。两种情况下按键和手柄按钮都能用。',
         '你自己改过键盘和鼠标绑定。要用 Dark Souls III 布局替换吗？手柄按钮保持不变。\n\n选“否”会保留你的'
         '按键，只开启鼠标控制镜头。',
+    ),
+    'zh-TW': (
+        '操作方式',
+        '搖控器',
+        '鍵盤和滑鼠：開啟滑鼠控制鏡頭並使用 Dark Souls III 佈局（如果你自己改過按鍵，會先詢問）。搖控器：關閉'
+        '滑鼠控制鏡頭，遊戲不再佔用滑鼠指針。兩種情況下按鍵和搖控器按鈕都能用。',
+        '你自己改過鍵盤和滑鼠繫結。要用 Dark Souls III 佈局替換嗎？搖控器按鈕保持不變。\n\n選「否」會保留你的'
+        '按鍵，只開啟滑鼠控制鏡頭。',
     ),
     'ja': (
         '操作方法',
